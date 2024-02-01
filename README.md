@@ -5,3 +5,4 @@ The expectation is that a junior developer possesses vanilla JavaScript, CSS, an
 While there are multiple avenues one may take to develop this application, this is a working example with basic coding expectations.
 
 Please visit the link below for a live demo:<br/>
+https://elv-js-task-list.netlify.app/
